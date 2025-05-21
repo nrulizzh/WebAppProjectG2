@@ -2,7 +2,7 @@
 
 #### NAME AND MATRIC NUMBER OF GROUP MEMBERS:  
 1.   
-2.  
+2. NURUL IZZAH BINTI KAMARUL AZHAR (2310174)
 3. FARAH NUR ATHIRAH BINTI SUKARDAN (2310960)  
 4. NUR IRDINA BINTI ABD RAHMAN (2213414)
 5.  
@@ -76,6 +76,8 @@ This project aims to provide a meaningful and ethical digital solution to the ev
 - Best-selling items and slow movers
 
 ## ERD DIAGRAM FOR OUR SYSTEM
+This ERD represents a restaurant management system with five main modules: Menu Management, POS (Point of Sale), Inventory Management, Customer Loyalty, and Sales & Reports. The system includes entities such as `MenuItem` for managing food and drinks, `Order` and `OrderItem` for handling customer orders and calculating totals, `InventoryItem` for tracking stock levels, `Customer` and `LoyaltyPoint` for managing customer details and reward points. Relationships connect inventory to menu, customers to orders, orders to ordered items, and menu items to order items, enabling efficient operations, real-time inventory control, and customer engagement tracking.
+![image](https://github.com/user-attachments/assets/c3b94228-0dd6-4839-8c68-25fd26fc12ed)
 
 ## SEQUENCE DIAGRAM 
 
